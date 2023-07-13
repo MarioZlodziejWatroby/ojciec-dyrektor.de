@@ -1,0 +1,120 @@
+BODY {
+	FONT-SIZE: 10pt; COLOR: #020202; FONT-FAMILY: Arial, Verdana, Helvetica; BACKGROUND-COLOR: #ffefe3
+}
+B {
+	FONT-WEIGHT: bold
+}
+FORM {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #020202; FONT-FAMILY: Verdana, Arial, Helvetica; TEXT-ALIGN: center
+}
+A {
+	COLOR: #020202; TEXT-DECORATION: none
+}
+.WIECEJ {
+	FONT-WEIGHT: normal; FONT-SIZE: 7.5pt; FONT-FAMILY: Arial, Verdana, Helvetica; TEXT-ALIGN: left
+}
+.LINK {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #020202; FONT-FAMILY: Arial, Verdana, Helvetica; TEXT-ALIGN: left
+}
+.LINK2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #020202; FONT-FAMILY: Arial, Verdana, Helvetica; TEXT-ALIGN: left
+}
+DIV.BUT10 {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #36318a; FONT-FAMILY: Arial, Verdana, Helvetica; TEXT-ALIGN: center
+}
+DIV.NIEB {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #36318a; FONT-FAMILY: Verdana, Arial, Helvetica; TEXT-ALIGN: left
+}
+DIV.SUB {
+	FONT-SIZE: 8pt
+}
+DIV.POCZ {
+	FONT-WEIGHT: normal; FONT-SIZE: 7.5pt; FONT-FAMILY: Arial, Verdana, Helvetica; TEXT-ALIGN: center
+}
+DIV.WDZIAL {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #ffefe3; FONT-FAMILY: Verdana, Arial, Helvetica; TEXT-ALIGN: left
+}
+DIV.WDZIALC {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #ffefe3; FONT-FAMILY: Verdana, Arial, Helvetica; TEXT-ALIGN: center
+}
+DIV.WDZIALS {
+	FONT-WEIGHT: normal; FONT-SIZE: 7.5pt; COLOR: #ffefe3; FONT-FAMILY: Verdana, Arial, Helvetica; TEXT-ALIGN: left
+}
+DIV.SUB3 {
+	FONT-WEIGHT: normal; FONT-SIZE: 7.5pt; COLOR: #020202; FONT-FAMILY: Arial, Verdana, Helvetica; TEXT-ALIGN: left
+}
+DIV.HED3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #020202; FONT-FAMILY: Verdana, Arial, Helvetica; TEXT-ALIGN: left
+}
+DIV.ZAP {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #020202; FONT-FAMILY: Arial, Verdana, Helvetica; TEXT-ALIGN: left
+}
+DIV.INF1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #020202; FONT-FAMILY: Verdana, Arial, Helvetica; TEXT-ALIGN: center
+}
+DIV.INF2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #020202; FONT-FAMILY: Verdana, Arial, Helvetica; TEXT-ALIGN: left
+}
+DIV.INF3 {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #020202; FONT-FAMILY: Verdana, Arial, Helvetica; TEXT-ALIGN: center
+}
+TD {
+	FONT-FAMILY: Verdana,  Arial, Helvetica
+}
+.NRWYD {
+	FONT-WEIGHT: bold; FONT-SIZE: 7pt; BACKGROUND: url(php/naglo_2b.gif); COLOR: #020202; FONT-FAMILY: Verdana, Arial, Helvetica; TEXT-ALIGN: center
+}
+.TAB0 {
+	BACKGROUND: url(php/tlo_x.gif)
+}
+.TAB1 {
+	BACKGROUND: url(php/tab1.gif)
+}
+.TAB3 {
+	BACKGROUND: url(php/tab3.gif)
+}
+.TAB4 {
+	BACKGROUND: url(php/tab9.gif)
+}
+.TAB5 {
+	BACKGROUND-COLOR: #020202
+}
+.OR {
+	BACKGROUND: url(php/or.gif)
+}
+.OR2 {
+	FONT-SIZE: 7.5pt; BACKGROUND: url(php/or2.gif)
+}
+.OR3 {
+	BACKGROUND: url(php/or3.gif)
+}
+.OR4 {
+	FONT-SIZE: 7.5pt; BACKGROUND: url(php/or4.gif)
+}
+.BUT20 {
+	BACKGROUND: url(php/but20.gif)
+}
+.B3L {
+	BACKGROUND: url(php/belka3_left.gif)
+}
+.B3R {
+	BACKGROUND: url(php/belka3_right.gif)
+}
+.B4L {
+	BACKGROUND: url(php/belka4_left.gif)
+}
+.B4R {
+	BACKGROUND: url(php/belka4_right.gif)
+}
+.TYT {
+	FONT-WEIGHT: normal; FONT-SIZE: 9pt; COLOR: #f5eee4; BACKGROUND-COLOR: #08398c; TEXT-ALIGN: left
+}
+.TXT {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; BACKGROUND-COLOR: #ffefe3; TEXT-ALIGN: left
+}
+.TNT {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; BACKGROUND-COLOR: #ffdeaa; TEXT-ALIGN: left
+}
+.WIEKSZE {
+	FONT-WEIGHT: normal; FONT-SIZE: 12pt; TEXT-ALIGN: center
+}
