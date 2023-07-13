@@ -6,7 +6,7 @@ Pełna, ponaprawiana kopia starej strony parodiującej Radio Maryja - ojciec-dyr
 
 # Rzeczy do zrobienia
 - Naprawić kodowanie, bo GitHub ~~rozjebał~~ narzuca kodowanie UTF-8
-  - Parker Moore, bądź przeklęty.
+  - Parker Moore i Aziz Shamim, bądźcie przeklęci.
 - Pozastępywać martwe linki:
   - albo linkami do Wayback Machine czy innych archiwów
   - albo, jeśli to linki do rzeczy typu drobne strony i pliki .mp3, kopiami w samym repo (folder `external`). Wyjątek to jeśli dany materiał jest zbyt hardkorowy - wtedy pozostaje jedynie opcja 1
