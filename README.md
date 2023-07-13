@@ -5,7 +5,8 @@ Jeśli oryginalny autor nie życzy sobie by to istniało, proszę mi dać znać
 Pełna, ponaprawiana kopia starej strony parodiującej Radio Maryja - ojciec-dyrektor.de, znanej z między innymi niesławnej Spowiedzi Online. No, może jeszcze nie pełna i nie w pełni ponaprawiana, bo jest W.I.P.
 
 # Rzeczy do zrobienia
-- Naprawić kodowanie, bo GitHub rozjebał
+- Naprawić kodowanie, bo GitHub ~~rozjebał~~ narzuca kodowanie UTF-8
+  - Parker Moore, bądź przeklęty.
 - Pozastępywać martwe linki:
   - albo linkami do Wayback Machine czy innych archiwów
   - albo, jeśli to linki do rzeczy typu drobne strony i pliki .mp3, kopiami w samym repo (folder `external`). Wyjątek to jeśli dany materiał jest zbyt hardkorowy - wtedy pozostaje jedynie opcja 1
