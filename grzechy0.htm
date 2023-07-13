@@ -1,0 +1,94 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Radio Maryja - Spowiedź Online</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-2">
+
+
+
+
+<SCRIPT>
+<!--
+function spr()
+{
+var spo=document.grz.grzech.value
+if (spo=="")
+{alert("Wypełnij pole 'grzechy' ! Tylko uczciwie! ");
+return false;}
+else
+if (document.grz.czy.value=="nie")
+{alert("Przprowadź rachunek sumienia !");
+return false;}
+else
+if (document.grz.czy2.value=="nie")
+{alert("ŻAŁUJ za grzechy !");
+return false;}
+else
+if (document.grz.czy3.value=="nie")
+{alert("Odmów poprzednio zadaną pokutę !");
+return false;}
+else
+if (confirm('Aby przejść do ostatecznego rozgrzeszenia uważnie sprawdź, czy to, co wpisałeś,\n jest zgodne z Prawdą Najwyższą.\n\nCzy potwierdzasz dane:\n\nRachunek sumienia: ' + grz.czy.value +'\n\nŻal za grzechy: ' + grz.czy2.value + '\n\nOstatnia pokuta: ' +grz.czy3.value + '\n\nTwoje grzechy:\n' + grz.grzech.value + '\n\nNadzieja poprawy: ' + grz.czy4.value + '\n\nJeśli jesteś gotowy to kliknij OK i rozpocznij połączenie z Bogiem.')) {location.href='grz2.htm'}
+}
+//-->
+</SCRIPT>
+
+<META content="MSHTML 6.00.2800.1106" name=GENERATOR></HEAD>
+<BODY>
+<FONT face=verdana> </FONT> 
+<CENTER>
+  <FONT face=verdana> </FONT>
+  <H1 align="left"><font size="1" face="verdana"><strong><font size="4">Spowiedź 
+    Online</font><br>
+    <br>
+    <img src="0403/spowiedz.gif" width="390" height="128"> </strong></font></H1>
+  <div align="left"><font color="#FF3300" size="2" face="verdana"><strong>Uważnie 
+    przeczytaj pytania i szczerze odpowiedz!</strong></font><font face="verdana"><BR>
+    </font></div>
+  <FORM name=grz>
+    <div align="left"><font color="#214111" size="4" face="verdana"><strong>Czy 
+      przeprowadziłeś rachunek sumienia ?</strong></font> <font color="#214111" size="4" face="verdana">
+      <SELECT name=czy>
+        <OPTION value=nie>nie 
+        <OPTION value=tak selected>tak</OPTION>
+      </SELECT>
+      <BR>
+      <BR>
+      <strong>Czy żałowałeś za grzechy ? 
+      <SELECT name=czy2>
+        <OPTION value=nie>nie 
+        <OPTION 
+  value=tak selected>tak</OPTION>
+      </SELECT>
+      </strong> </font> <font color="#214111" size="4" face="verdana"><br>
+      <BR>
+      <strong>Czy odmówiłeś zadaną poprzednio pokutę?</strong></font> <font color="#214111" size="4" face="verdana"> 
+      <SELECT name=czy3>
+        <OPTION value=odmówiona selected>tak 
+        <OPTION 
+  value="raczej odmówiona">raczej tak 
+        <OPTION 
+value=nie>nie</OPTION>
+      </SELECT>
+      <br>
+      <BR>
+      <FONT color=#614111 size=2> <strong>Pana Boga obraziłem następującymi grzechami:</strong><br>
+      <BR>
+      <TEXTAREA name=grzech rows=5 cols=30></TEXTAREA>
+      <br>
+      <BR>
+      <strong><font color="#214111" size="4" face="Verdana, Arial, Helvetica, sans-serif">Czy masz się zamiar poprawić?</font> </strong></font> 
+      <font color="#214111" size="4" face="verdana"> 
+      <SELECT name=czy4>
+        <OPTION value=duża selected>tak 
+        <OPTION 
+  value=nikła>nie wiem 
+        <OPTION value=brak>nie</OPTION>
+      </SELECT>
+      <br>
+      <BR>
+      <INPUT onclick="return spr();" type=button value=Klikam!>
+      </font></div>
+ 
+  </FORM>
+  </FONT>
+  </CENTER>
+</BODY></HTML>
